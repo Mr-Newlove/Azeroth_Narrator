@@ -1,0 +1,7 @@
+## Interface: 80100
+## Title: Azeroth Narrator
+## Author: Unknown
+## Version: 0.1
+
+main.lua
+UI.xml

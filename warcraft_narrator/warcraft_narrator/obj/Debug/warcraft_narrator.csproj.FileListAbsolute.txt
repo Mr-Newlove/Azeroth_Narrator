@@ -1,0 +1,10 @@
+Z:\VS\warcraft_narrator\warcraft_narrator\bin\Debug\warcraft_narrator.exe.config
+Z:\VS\warcraft_narrator\warcraft_narrator\bin\Debug\warcraft_narrator.exe
+Z:\VS\warcraft_narrator\warcraft_narrator\bin\Debug\warcraft_narrator.pdb
+Z:\VS\warcraft_narrator\warcraft_narrator\obj\Debug\warcraft_narrator.csprojAssemblyReference.cache
+Z:\VS\warcraft_narrator\warcraft_narrator\obj\Debug\warcraft_narrator.Form1.resources
+Z:\VS\warcraft_narrator\warcraft_narrator\obj\Debug\warcraft_narrator.Properties.Resources.resources
+Z:\VS\warcraft_narrator\warcraft_narrator\obj\Debug\warcraft_narrator.csproj.GenerateResource.cache
+Z:\VS\warcraft_narrator\warcraft_narrator\obj\Debug\warcraft_narrator.csproj.CoreCompileInputs.cache
+Z:\VS\warcraft_narrator\warcraft_narrator\obj\Debug\warcraft_narrator.exe
+Z:\VS\warcraft_narrator\warcraft_narrator\obj\Debug\warcraft_narrator.pdb
