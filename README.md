@@ -3,6 +3,7 @@ A TTS narrator for WoW
 
 Just a proof of concept I am releasing, feel free to fork or whatever
 
+I do not know if this breaks TOS, I accept no responsibity for bans.
 
 
 
